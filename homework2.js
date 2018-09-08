@@ -13,3 +13,5 @@ function myFunction2 () {
 const age = anun.length + azganun.length;
 document.getElementById("inchage2").innerHTML = age;
 };
+const gg = "dsgg";
+console.log("dsfdsfg");
